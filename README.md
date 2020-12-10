@@ -12,8 +12,8 @@
   https://dev.mysql.com/downloads/connector/j/
 - IDE: NetBeans 8.1
 - MySQL Version: 5.5.4
-- MySQL WorkBench: 6.3.6+dfsg-0ubuntu1
-- Created in Ubuntu(16.04 LTS)
+- MySQL WorkBench: 6.3.6+
+- Created in Windows 10
 
 # About Files
 -  /SQL: Contains the Exported Database Schema+Data
