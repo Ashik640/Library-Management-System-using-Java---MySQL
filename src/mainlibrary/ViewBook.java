@@ -21,7 +21,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author bikash
+ * @author Ashik
  */
 public class ViewBook extends javax.swing.JFrame {
 

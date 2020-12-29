@@ -7,8 +7,8 @@
 <!-- the Compile on Save feature is turned off for the project. -->
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
-<project name="DBMSLIb" default="default" basedir=".">
-    <description>Builds, tests, and runs the project DBMSLIb.</description>
+<project name="Library_Management_Project_using_Java_&amp;_MySQL" default="default" basedir=".">
+    <description>Builds, tests, and runs the project Library Management Project using Java &amp; MySQL.</description>
     <import file="nbproject/build-impl.xml"/>
     <!--
 
@@ -58,7 +58,7 @@
 
     An example of overriding the target for project execution could look like this:
 
-        <target name="run" depends="DBMSLIb-impl.jar">
+        <target name="run" depends="Library_Management_Project_using_Java_&_MySQL-impl.jar">
             <exec dir="bin" executable="launcher.exe">
                 <arg file="${dist.jar}"/>
             </exec>

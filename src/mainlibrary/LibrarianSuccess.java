@@ -12,7 +12,7 @@ import javax.swing.JFrame;
 
 /**
  *  public static JFrame ThisLogined;
- * @author bikash
+ * @author Ashik
  */
 public class LibrarianSuccess extends javax.swing.JFrame {
     

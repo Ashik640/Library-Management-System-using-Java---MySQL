@@ -21,7 +21,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author bikash
+ * @author Ashik
  */
 public class AllStudent extends javax.swing.JFrame {
 
